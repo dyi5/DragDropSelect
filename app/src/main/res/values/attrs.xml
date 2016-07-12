@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DragDropSelect">
+        <attr name="point_total" format="integer" />
+        <attr name="point_size" format="dimension" />
+        <attr name="point_color" format="color" />
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="thumb_size" format="dimension" />
+        <attr name="thumb_color" format="color" />
+    </declare-styleable>
+</resources>
